@@ -9,6 +9,6 @@ Part One of developing this application is ensuring that the application has the
 
 The graphical aspects of this application would be considered in future developments.
 
-<img src="https://github.com/laurij95/Weather-Application/blob/master/Screenshots/Part_One_Screen.png" alt="Part One Screenshot"/>
+<img src="https://github.com/laurij95/Weather-Application/blob/master/Screenshots/Part_One_Screen.png" alt="Part One Screenshot" width="200" height="400"/>
 
 
